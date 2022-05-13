@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fi.tuni.prog3.junitorder","l":"Order.Entry"},{"p":"fi.tuni.prog3.junitorder","l":"Order.Item"},{"p":"fi.tuni.prog3.junitorder","l":"Order"}];updateSearchResults();
